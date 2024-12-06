@@ -1,0 +1,146 @@
+{
+	"song": {
+		"events": [
+			[
+				6545.45454545455,
+				[
+					[
+						"Change Character",
+						"dad",
+						"jokebambi"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				8727.27272727273,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bambi"
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"unfairbambi"
+					]
+				]
+			],
+			[
+				13090.9090909091,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bambi"
+					]
+				]
+			],
+			[
+				16363.6363636364,
+				[
+					[
+						"Change Character",
+						"dad",
+						"jokebambi"
+					]
+				]
+			],
+			[
+				17454.5454545455,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bambi"
+					]
+				]
+			],
+			[
+				29454.5454545455,
+				[
+					[
+						"Change Character",
+						"dad",
+						"unfairbambi"
+					]
+				]
+			],
+			[
+				30545.4545454546,
+				[
+					[
+						"Change Character",
+						"dad",
+						"split-bambi"
+					],
+					[
+						"Play Animation",
+						"wot",
+						"dad"
+					]
+				]
+			],
+			[
+				34909.0909090909,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bambi"
+					]
+				]
+			],
+			[
+				38181.8181818182,
+				[
+					[
+						"Change Character",
+						"dad",
+						"jokebambi"
+					]
+				]
+			],
+			[
+				39272.7272727273,
+				[
+					[
+						"Change Character",
+						"dad",
+						"split-bambi"
+					],
+					[
+						"Play Animation",
+						"corn",
+						"dad"
+					]
+				]
+			],
+			[
+				60545.4545454546,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"cheer",
+						"gf"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "bap",
+			"boxState": "normal",
+			"sound": "dialogue/bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Wait who are you two?",
+			"boxState": "normal",
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.05,
+			"portrait": "dave"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh wait! I think I saw you guys a couple of days ago!",
+			"boxState": "normal",
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.03,
+			"portrait": "dave"
+		},
+		{
+			"expression": "talk",
+			"text": "beep bop",
+			"boxState": "normal",
+			"sound": "dialogue/bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, you want to sing? Well let's go then!",
+			"boxState": "normal",
+			"sound": "dialogue/daveDialogue",
+			"speed": 0.05,
+			"portrait": "dave"
+		}
+	]
+}
