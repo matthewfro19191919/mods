@@ -8,8 +8,7 @@ function onCreate()
 
 	makeLuaSprite('ground', 'backgrounds/dave-house/land',  675, 799)
 	addLuaSprite('ground')
-	scaleObject('ground', 1.2, 1.2)
-
+	scaleObject('ground', 0.8, 0.8)
 end
 
 function onBeatHit()--for every beat
